@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Zavod>
+	<Employee id ="1">
+		<DepartmentNumber>1</DepartmentNumber>
+		<surname>Іваненко</surname>
+		<Position>Інженер</Position>
+		<Experience>5 років</Experience>
+		<Salary>15000</Salary>
+	</Employee>
+	<Employee id="2">
+		<DepartmentNumber>2</DepartmentNumber>
+		<surname>Петров</surname>
+		<Position>Технік</Position>
+		<Experience>3 роки</Experience>
+		<Salary>12000</Salary>
+	</Employee>
+	<Employee id="3">
+		<DepartmentNumber>3</DepartmentNumber>
+		<surname>Сидоренко</surname>
+		<Position>Менеджер</Position>
+		<Experience>7 років</Experience>
+		<Salary>20000</Salary>
+	</Employee>
+	<Employee id="4">
+		<DepartmentNumber>4</DepartmentNumber>
+		<surname>Коваленко</surname>
+		<Position>Оператор</Position>
+		<Experience>2 роки</Experience>
+		<Salary>10000</Salary>
+	</Employee>
+	<Employee id="5">
+		<DepartmentNumber>5</DepartmentNumber>
+		<surname>Шевченко</surname>
+		<Position>Електрик</Position>
+		<Experience>6 років</Experience>
+		<Salary>14000</Salary>
+	</Employee>
+	<Employee id="6">
+		<DepartmentNumber>6</DepartmentNumber>
+		<surname>Гончарук</surname>
+		<Position>Механік</Position>
+		<Experience>4 роки</Experience>
+		<Salary>13000</Salary>
+	</Employee>
+	<Employee id="7">
+		<DepartmentNumber>7</DepartmentNumber>
+		<surname>Мельник</surname>
+		<Position>Секретар</Position>
+		<Experience>1 рік</Experience>
+		<Salary>9000</Salary>
+	</Employee>
+	<Employee id="8">
+		<DepartmentNumber>8</DepartmentNumber>
+		<surname>Бондаренко</surname>
+		<Position>Бухгалтер</Position>
+		<Experience>8 років</Experience>
+		<Salary>18000</Salary>
+	</Employee>
+</Zavod>
